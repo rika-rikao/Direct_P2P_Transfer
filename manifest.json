@@ -1,0 +1,21 @@
+{
+  "name": "Direct_P2P_Transfer",
+  "short_name": "直_P2P_転送",
+  "description": "電波ゼロの環境でもQRコードで直結できるオフラインファイル転送アプリ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1c1c1e",
+  "theme_color": "#34c759",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/34c759/ffffff?text=P2P",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512/34c759/ffffff?text=P2P",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
